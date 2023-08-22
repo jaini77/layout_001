@@ -30,7 +30,7 @@ body{
   margin-top:10px ;
   width:80%;
 }
-@media only screen and (max-width:300px) { 
+@media only screen and (max-width:768px) { 
   #image_phone{
     width:150px;
     justify-content: center;
@@ -41,7 +41,7 @@ body{
   margin-top:100px;
   padding-right:100px ;
 }
-@media only screen and (max-width:412px) { 
+@media only screen and (max-width:768px) { 
   #head_blog{
     margin-left:20%;
      text-align: center;
@@ -57,7 +57,7 @@ body{
   margin-top:100px;
   padding-right:10px ;
 }
-@media only screen and (max-width:412px) { 
+@media only screen and (max-width:768px) { 
   #bottom_blog{
     margin-left: 20px;
      text-align: center;
@@ -86,7 +86,7 @@ body{
   border-radius:50px;
   transition: all 0.5s;
 }
-@media only screen and (max-height:412px) {
+@media only screen and (max-height:768px) {
   
   .card {
     height:10px;
@@ -126,7 +126,7 @@ body{
   height:50px;
   margin-top: 20px;  
 }
-@media only screen and (max-width:300px) { 
+@media only screen and (max-width:768px) { 
   #btm_01{
     margin-left:50px ;
     margin-right:50px ;
